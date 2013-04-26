@@ -1,0 +1,87 @@
+user:@bad_robot,id:325304480478412800,created_at:2013-04-19 17:46:46,text:#brquotedujour #moviequote http://t.co/QrgsZS9fLh,retweete_count:29,in_reply_to_user_id:None
+user:@bad_robot,id:324940345978793984,created_at:2013-04-18 17:39:50,text:Starfleet Ceremonial Guard and friend! @missioncontinue @EricGreitens Founder /CEO of The Mission Continues, has been named a 2013 #TIME100,retweete_count:16,in_reply_to_user_id:None
+user:@bad_robot,id:324693658861453312,created_at:2013-04-18 01:19:35,text:.@pattonoswalt Time ribbon it is!! - JJ   #starwars http://t.co/NnSALt1BEN,retweete_count:92,in_reply_to_user_id:None
+user:@bad_robot,id:324583255212969984,created_at:2013-04-17 18:00:53,text:#brquotedujour #action http://t.co/KPzUQ6Wrkr,retweete_count:42,in_reply_to_user_id:None
+user:@bad_robot,id:324262024307687424,created_at:2013-04-16 20:44:25,text:#brquotedujour #Boston http://t.co/L5Bibpj0JK,retweete_count:113,in_reply_to_user_id:None
+user:@bad_robot,id:323883161341788160,created_at:2013-04-15 19:38:57,text:#brquotedujour http://t.co/Er9xHdRRHt,retweete_count:24,in_reply_to_user_id:None
+user:@bad_robot,id:323844986523242497,created_at:2013-04-15 17:07:16,text:Almost done!!!! - JJ #StarTrekIntoDarkness http://t.co/MeD4ALfzZM,retweete_count:61,in_reply_to_user_id:None
+user:@bad_robot,id:322791406114582528,created_at:2013-04-12 19:20:43,text:#brquotedujour #moviequote http://t.co/sUdBlnPwaF,retweete_count:62,in_reply_to_user_id:None
+user:@bad_robot,id:322754328844697600,created_at:2013-04-12 16:53:23,text:RT @m_giacchino: Just posted a photo http://t.co/ETmTNXGOS3,retweete_count:71,in_reply_to_user_id:None
+user:@bad_robot,id:322501210131275776,created_at:2013-04-12 00:07:35,text:#Throwbackthursday http://t.co/TtPVoa2v9r,retweete_count:32,in_reply_to_user_id:None
+user:@bad_robot,id:322492449106849792,created_at:2013-04-11 23:32:46,text:Thanks January @conanobrien Orlando @katyperry @joshgad for supporting the kids last night at BR! #CoachlovesCDF http://t.co/koiGcbngfG,retweete_count:8,in_reply_to_user_id:None
+user:@bad_robot,id:322439699090272258,created_at:2013-04-11 20:03:09,text:#brquotedujour http://t.co/f8IvW0qOwW,retweete_count:43,in_reply_to_user_id:None
+user:@bad_robot,id:322216404231262208,created_at:2013-04-11 05:15:52,text:.@ChildDefender The incredible honorees at tonight's event! #CoachlovesCDF http://t.co/XlViQX8XAm,retweete_count:10,in_reply_to_user_id:None
+user:@bad_robot,id:322192812722507776,created_at:2013-04-11 03:42:07,text:RT @Coach: Help us help the Children’s Defense Fund! We’re donating $10 for every tweet containing @Coach #CoachLovesCDF. Cc: @ChildDefender,retweete_count:682,in_reply_to_user_id:None
+user:@bad_robot,id:322192573613621250,created_at:2013-04-11 03:41:10,text:#coachlovesCDF event right now at BR!  @Coach @ChildDefender http://t.co/gfFgeP1jfn,retweete_count:5,in_reply_to_user_id:None
+user:@bad_robot,id:322057995477463041,created_at:2013-04-10 18:46:24,text:#brquotedujour #capote http://t.co/QmFnWK8EZR,retweete_count:53,in_reply_to_user_id:None
+user:@bad_robot,id:321702317739098112,created_at:2013-04-09 19:13:04,text:#brquotedujour http://t.co/C2oh49LGKV,retweete_count:58,in_reply_to_user_id:None
+user:@bad_robot,id:321402545962622976,created_at:2013-04-08 23:21:53,text:#BRLobbySketches by @travislampe today! http://t.co/0PndUGk21u,retweete_count:1,in_reply_to_user_id:None
+user:@bad_robot,id:321332613342183424,created_at:2013-04-08 18:43:59,text:#brquotedujour http://t.co/ZyIJGlWc63,retweete_count:44,in_reply_to_user_id:None
+user:@bad_robot,id:320304706289287169,created_at:2013-04-05 22:39:27,text:Happy #FirstContact Day! Live long and prosper. #StarTrekIntoDarkness,retweete_count:113,in_reply_to_user_id:None
+user:@bad_robot,id:320233577000353793,created_at:2013-04-05 17:56:49,text:#brquotedujour http://t.co/dalZKPksCI,retweete_count:9,in_reply_to_user_id:None
+user:@bad_robot,id:319932036137766914,created_at:2013-04-04 21:58:36,text:Ice cream from an alternate universe... Artwork by @ry_parrott #FRINGE @FOXTV #TBT http://t.co/ZMCFRQpezL,retweete_count:87,in_reply_to_user_id:None
+user:@bad_robot,id:319880654626095106,created_at:2013-04-04 18:34:26,text:#brquotedujour http://t.co/pTc3Hlg8Ac,retweete_count:48,in_reply_to_user_id:None
+user:@bad_robot,id:319601143791616001,created_at:2013-04-04 00:03:45,text:.@Galleries1988 @missioncontinue Great art for a great cause! #LOST #FRINGE #Revolution #POI #StarTrekIntoDarkness http://t.co/xO9VTw0qch,retweete_count:69,in_reply_to_user_id:None
+user:@bad_robot,id:319503738924589056,created_at:2013-04-03 17:36:42,text:. @DavidBowieReal #brquotedujour #Starman http://t.co/yLv3q0iAsc,retweete_count:46,in_reply_to_user_id:None
+user:@bad_robot,id:319260325448912896,created_at:2013-04-03 01:29:27,text:Mark Andrews added to the collection while visiting BR! #BRLobbySketches #Pixar #Brave #Monsters! @DisneyPixar http://t.co/Td3CJenmRM,retweete_count:4,in_reply_to_user_id:None
+user:@bad_robot,id:319151052240867330,created_at:2013-04-02 18:15:15,text:#brquotedujour #philosophy http://t.co/H7gE79sUpb,retweete_count:31,in_reply_to_user_id:None
+user:@bad_robot,id:318845719085731840,created_at:2013-04-01 22:01:57,text:.@HRC Bad Robot on board #MarriageEquality,retweete_count:29,in_reply_to_user_id:None
+user:@bad_robot,id:318793453007937536,created_at:2013-04-01 18:34:16,text:#brquotedujour #AprilFools . @therealbuzz http://t.co/zFDKBeb24m,retweete_count:35,in_reply_to_user_id:None
+user:@bad_robot,id:318425074170462208,created_at:2013-03-31 18:10:28,text:#TheWalkingDead #StarTrekIntoDarkness,retweete_count:42,in_reply_to_user_id:None
+user:@bad_robot,id:317393914086699010,created_at:2013-03-28 21:53:00,text:John Badham drops by BR for a #SaturdayNightFever screening! http://t.co/mPi8w2Efkf,retweete_count:4,in_reply_to_user_id:None
+user:@bad_robot,id:317342502443175936,created_at:2013-03-28 18:28:43,text:#brquotedujour http://t.co/k1teZna5Vz,retweete_count:56,in_reply_to_user_id:None
+user:@bad_robot,id:316977018568835075,created_at:2013-03-27 18:16:25,text:#brquotedujour http://t.co/aj7CgsB270,retweete_count:46,in_reply_to_user_id:None
+user:@bad_robot,id:316969926835453953,created_at:2013-03-27 17:48:14,text:RT @Jimboborino: Found #StarfleetHQ #StarTrekIntoDarkness #GeeksSeeThingsDifferently @bad_robot @StarTrekMovie http://t.co/H17lNrGtOG,retweete_count:21,in_reply_to_user_id:None
+user:@bad_robot,id:316622500903665664,created_at:2013-03-26 18:47:41,text:#brquotedujour http://t.co/dqAF3PY1BZ,retweete_count:27,in_reply_to_user_id:None
+user:@bad_robot,id:316384214687838210,created_at:2013-03-26 03:00:49,text:#Revolution #TakeBackThePower @GrahamRogers_ @trspiridakos @NBCRevolution http://t.co/TEZKxeG6dp,retweete_count:69,in_reply_to_user_id:None
+user:@bad_robot,id:316381348216573952,created_at:2013-03-26 02:49:26,text:#FoundatBR  #Revolution #TakeBackThePower http://t.co/6R9IPBYdNS,retweete_count:14,in_reply_to_user_id:None
+user:@bad_robot,id:316379792498909184,created_at:2013-03-26 02:43:15,text:BTS! @billy_burke @ZakOrth @trspiridakos @GrahamRogers_  #Revolution #TakeBackThePower @NBCRevolution http://t.co/Y5MUczEOsu,retweete_count:12,in_reply_to_user_id:None
+user:@bad_robot,id:316376784566366209,created_at:2013-03-26 02:31:18,text:Bad Robot family watching #Revolution  Tweet us your pics of #TakeBackThePower http://t.co/tsqyGAfYV5,retweete_count:30,in_reply_to_user_id:None
+user:@bad_robot,id:316375222355914753,created_at:2013-03-26 02:25:05,text:RT @MasukawaSaurus: @bad_robot @nbcrevolution Just kiss her already!!! #Revolution #SexualTension,retweete_count:2,in_reply_to_user_id:None
+user:@bad_robot,id:316374140682649600,created_at:2013-03-26 02:20:47,text:That bicycle was the last bicycle. #Revolution #TakeBackThePower,retweete_count:6,in_reply_to_user_id:None
+user:@bad_robot,id:316372887693049856,created_at:2013-03-26 02:15:49,text:If you could use your pendant's power on one thing, what would it be? Besides HELICOPTERS. #Revolution #TakeBackThePower @NBCRevolution,retweete_count:23,in_reply_to_user_id:None
+user:@bad_robot,id:316369193626898432,created_at:2013-03-26 02:01:08,text:RT @NBCRevolution: #Revolution starts in 10 minutes! RETWEET if you’re watching with us.,retweete_count:548,in_reply_to_user_id:None
+user:@bad_robot,id:316367021652733954,created_at:2013-03-26 01:52:30,text:#Revolution Ready  #FoundatBR http://t.co/Qgj3ff7QsH,retweete_count:18,in_reply_to_user_id:None
+user:@bad_robot,id:316283529774391296,created_at:2013-03-25 20:20:44,text:10PM EST LIVE TWEETING #BRquotedujour #Revolution http://t.co/ByxoWXVSRB,retweete_count:26,in_reply_to_user_id:None
+user:@bad_robot,id:315295830833782784,created_at:2013-03-23 02:55:58,text:Delicious @indiajonesct truck feeding BR tonight! http://t.co/WcPqI4mZKv,retweete_count:22,in_reply_to_user_id:None
+user:@bad_robot,id:315180759910608896,created_at:2013-03-22 19:18:43,text:#brquotedujour http://t.co/lAtczAm5lD,retweete_count:55,in_reply_to_user_id:None
+user:@bad_robot,id:314995025215905793,created_at:2013-03-22 07:00:40,text:Further Into Darkness with @zoesaldana @simonpegg @DamonLindelof @boborci @m_giacchino  @ZacharyQuinto @JohnTheCho http://t.co/a1ItnwOPQg,retweete_count:150,in_reply_to_user_id:None
+user:@bad_robot,id:314911529889853440,created_at:2013-03-22 01:28:54,text:#FoundAtBR from artist @amandavisell http://t.co/0vTwBGuOop,retweete_count:71,in_reply_to_user_id:None
+user:@bad_robot,id:314812918162141184,created_at:2013-03-21 18:57:03,text:#brquotedujour http://t.co/tPAipku8ER,retweete_count:24,in_reply_to_user_id:None
+user:@bad_robot,id:314446770845388800,created_at:2013-03-20 18:42:07,text:#brquotedujour http://t.co/rbMI7bVeQ0,retweete_count:104,in_reply_to_user_id:None
+user:@bad_robot,id:314073252945346560,created_at:2013-03-19 17:57:53,text:Today's #brquotedujour @SteveMartinToGo http://t.co/NBt9YkVCia,retweete_count:96,in_reply_to_user_id:None
+user:@bad_robot,id:313814193411330050,created_at:2013-03-19 00:48:28,text:Storms make trees take deeper roots. - Dolly Parton #brquotedujour,retweete_count:33,in_reply_to_user_id:None
+user:@bad_robot,id:312743903868616704,created_at:2013-03-16 01:55:32,text:@JuddApatow &amp; @jeffgarlin join the Bad Robot family for a sneak peek at Star Trek Into Darkness http://t.co/DYhamIcXDU,retweete_count:33,in_reply_to_user_id:88749392
+user:@bad_robot,id:312695528259469313,created_at:2013-03-15 22:43:18,text:A man wrapped up in himself makes a very small bundle. - Benjamin Franklin #brquotedujour,retweete_count:36,in_reply_to_user_id:None
+user:@bad_robot,id:312291345677045760,created_at:2013-03-14 19:57:13,text:When I die I am leaving my body to science fiction – Steven Wright #brquotedujour,retweete_count:46,in_reply_to_user_id:None
+user:@bad_robot,id:309515516702228480,created_at:2013-03-07 04:07:04,text:YES! RT @DDam16: @bad_robot We dedicate our snowman to you Bad Robot! #BadRobot #Snowbot #Newcompanyname? #BadSnowbot http://t.co/so0s9FKY4F,retweete_count:29,in_reply_to_user_id:None
+user:@bad_robot,id:309514899644616704,created_at:2013-03-07 04:04:37,text:@bradmoist WISH REAL HARD!!!!  (and DM your address),retweete_count:0,in_reply_to_user_id:14616989
+user:@bad_robot,id:308637037160960000,created_at:2013-03-04 17:56:18,text:Legends of Cinema: Part 1.  #STID @rejectedjokes http://t.co/kLWuwalWRx,retweete_count:52,in_reply_to_user_id:None
+user:@bad_robot,id:305884913780011008,created_at:2013-02-25 03:40:21,text:RT @size2shoes: @bad_robot Rock on lads. See ye monday lunchtime cos we are playing a few tunes in the cafe in your office! #postoscarir ...,retweete_count:1,in_reply_to_user_id:None
+user:@bad_robot,id:305382155977109504,created_at:2013-02-23 18:22:34,text:@AntGiacchino NEVER TOO LATE!!!,retweete_count:0,in_reply_to_user_id:405289574
+user:@bad_robot,id:300048739777785858,created_at:2013-02-09 01:09:28,text:#HarlemShake  http://t.co/2umAKXz4,retweete_count:91,in_reply_to_user_id:None
+user:@bad_robot,id:298706203637325824,created_at:2013-02-05 08:14:43,text:RT @steveaoki: Goofin off w/ JJ Abrams in bad_robot studios talkin about some crazy shizzzz http://t.co/3B3DznCS,retweete_count:91,in_reply_to_user_id:None
+user:@bad_robot,id:296007086465228802,created_at:2013-01-28 21:29:24,text:#FoundAtBR http://t.co/3j3z0LGa,retweete_count:912,in_reply_to_user_id:None
+user:@bad_robot,id:293546002458230787,created_at:2013-01-22 02:29:55,text:Earlier today... #inaug2013 http://t.co/PpaddFTF,retweete_count:30,in_reply_to_user_id:None
+user:@bad_robot,id:293490067962486784,created_at:2013-01-21 22:47:39,text:Backyard memories.  #ShotAtBR  @larryfong  @Joel_Courtney  @riley_griffiths  @_RyanLee_ http://t.co/rPd4z9V7,retweete_count:59,in_reply_to_user_id:None
+user:@bad_robot,id:292447003705753600,created_at:2013-01-19 01:42:54,text:#AnalogTweet  #FRINGE http://t.co/oC5GSvxr,retweete_count:1185,in_reply_to_user_id:None
+user:@bad_robot,id:291695402711916544,created_at:2013-01-16 23:56:18,text:RT @m_giacchino: Totally Hot Editor Mary Jo Markey taking a piece of Birthday Cake at the  bad_robot building! http://t.co/Mst0LCCA,retweete_count:8,in_reply_to_user_id:None
+user:@bad_robot,id:291312253062500352,created_at:2013-01-15 22:33:48,text:Friday. It's all happening. Epic trailer for the #FRINGE series finale!  http://t.co/urYB6dC6  via @FRINGEonFOX,retweete_count:74,in_reply_to_user_id:None
+user:@bad_robot,id:290890579435462656,created_at:2013-01-14 18:38:14,text:#BRLobbySketches (Thanks to @Chris_Sanders_) #FoundAtBR http://t.co/71nOumXw,retweete_count:6,in_reply_to_user_id:None
+user:@bad_robot,id:288780005918523392,created_at:2013-01-08 22:51:35,text:.@simonpegg You mean this one?  cc: @DamonLindelof @BradBirdA113 http://t.co/dvDTB6Bb,retweete_count:160,in_reply_to_user_id:18713254
+user:@bad_robot,id:288720394368741376,created_at:2013-01-08 18:54:42,text:This guy.  #FoundAtBR http://t.co/hI99IKvk,retweete_count:11,in_reply_to_user_id:None
+user:@bad_robot,id:288502011891159040,created_at:2013-01-08 04:26:54,text:@Weinbeezy Check your inbox!,retweete_count:0,in_reply_to_user_id:45943102
+user:@bad_robot,id:288424138962505729,created_at:2013-01-07 23:17:28,text:@DamonLindelof How can we help?,retweete_count:4,in_reply_to_user_id:32498545
+user:@bad_robot,id:288322325412204544,created_at:2013-01-07 16:32:53,text:RT @simonpegg: First day of Star Trek press, or as I like to call it... #evasivemaneuvers,retweete_count:736,in_reply_to_user_id:None
+user:@bad_robot,id:286582470911070209,created_at:2013-01-02 21:19:20,text:New #FRINGE Benefits poster! "Earthling" by Dave Quiggle  http://t.co/aJkbQ4Uv,retweete_count:27,in_reply_to_user_id:None
+user:@bad_robot,id:286021805074960386,created_at:2013-01-01 08:11:27,text:RT @JonLeeBrody: Happy New Year, @bad_robot! Live long and prosper! http://t.co/ohbRVlbP,retweete_count:10,in_reply_to_user_id:None
+user:@bad_robot,id:285116537432584194,created_at:2012-12-29 20:14:14,text:RT @kidikarus2close: Made crab cakes with my @bad_robot pancake kit because it's not BRUNCH time.,retweete_count:2,in_reply_to_user_id:None
+user:@bad_robot,id:284813998854127616,created_at:2012-12-29 00:12:03,text:RT @skron5: Rockin our bad robot tattoo's from my Marines gift! @JJabramsX http://t.co/D2il8B96,retweete_count:9,in_reply_to_user_id:None
+user:@bad_robot,id:284180545087356928,created_at:2012-12-27 06:14:56,text:RT @joshfoglio: Pancake Kit from @bad_robot!! Best. Gift. Ever. http://t.co/4vxm3dzZ,retweete_count:11,in_reply_to_user_id:None
+user:@bad_robot,id:283819824860254208,created_at:2012-12-26 06:21:34,text:RT @Mrozema: As the year draws to a close, I give thanks to @DamonLindelof and @bad_robot for helping produce some of the best TV/films  ...,retweete_count:4,in_reply_to_user_id:None
+user:@bad_robot,id:283807829733818368,created_at:2012-12-26 05:33:54,text:RT @theNERDYewald: Watching LOST! Why? Because it is the best! @DamonLindelof @m_giacchino @bad_robot #MerryChristmas,retweete_count:4,in_reply_to_user_id:None
+user:@bad_robot,id:283313394633809921,created_at:2012-12-24 20:49:11,text:RT @Juan_I_Cabrera: Just discovered that a few drops of “Ingredient Y” can do Smoothie Magic!! From the marvelous #BRkitchen at @bad_rob ...,retweete_count:2,in_reply_to_user_id:None
+user:@bad_robot,id:283062274640474113,created_at:2012-12-24 04:11:19,text:RT @SaraIsaacson: First attempt at @bad_robot. http://t.co/I6qLP6Gh,retweete_count:10,in_reply_to_user_id:None
+user:@bad_robot,id:283054232976900096,created_at:2012-12-24 03:39:22,text:Last minute gift ideas from our friends @wired  #BRLikes  #HappyHolidays http://t.co/1FTGvHP8   http://t.co/dgBFF5vC,retweete_count:5,in_reply_to_user_id:None
+user:@bad_robot,id:282970643744583681,created_at:2012-12-23 22:07:13,text:“@sdadich: Welcome to the fun, @bad_robot ! Us @wired ones are counting the days until #intodarkness http://t.co/SYb6FAL0” Thanks, Scott!,retweete_count:3,in_reply_to_user_id:None
+user:@bad_robot,id:282611451833761792,created_at:2012-12-22 22:19:55,text:RT @Juan_I_Cabrera: @bad_robot awesome Saturday breakfast with @HeidiCruzR and @evadaniellebaby. Thank you so muchfor the pancake kit!! ...,retweete_count:2,in_reply_to_user_id:None

@@ -1,0 +1,216 @@
+user:@adamdangelo,id:309706456628858882,created_at:2013-03-07 16:45:47,text:My answer to: Does Adam D'Angelo still commit any code to the Quora codebase? http://t.co/OsoHnG3iZv,retweete_count:12,in_reply_to_user_id:None
+user:@adamdangelo,id:293212452508819456,created_at:2013-01-21 04:24:30,text:RT @vkhosla: Gates Foundation study: We’ve figured out what makes a good teacher - The Washington Post http://t.co/y8i25ecO,retweete_count:70,in_reply_to_user_id:None
+user:@adamdangelo,id:257273213954969600,created_at:2012-10-14 00:14:48,text:@kevinmarks @carnage4life seems good for all parties,retweete_count:0,in_reply_to_user_id:57203
+user:@adamdangelo,id:252267603429560320,created_at:2012-09-30 04:44:18,text:@shervin same feeling at the same place today,retweete_count:0,in_reply_to_user_id:1159251
+user:@adamdangelo,id:247129253928394754,created_at:2012-09-16 00:26:20,text:@mlevchin got hit by the same thing a few weeks ago. 4 hour delay from JFK.,retweete_count:1,in_reply_to_user_id:14541402
+user:@adamdangelo,id:247044171918094336,created_at:2012-09-15 18:48:15,text:@annie hahaha,retweete_count:0,in_reply_to_user_id:14280530
+user:@adamdangelo,id:244481069993324544,created_at:2012-09-08 17:03:23,text:Great article about the development of Starcraft: http://t.co/8g8qdXJi,retweete_count:13,in_reply_to_user_id:None
+user:@adamdangelo,id:240838554224308225,created_at:2012-08-29 15:49:20,text:Big move: Google Plus birthday reminders on http://t.co/yWefEYMl search homepage. http://t.co/VpicUaw7,retweete_count:8,in_reply_to_user_id:None
+user:@adamdangelo,id:237031436396417024,created_at:2012-08-19 03:41:12,text:@annie amazing,retweete_count:0,in_reply_to_user_id:14280530
+user:@adamdangelo,id:235283094406578178,created_at:2012-08-14 07:53:55,text:RT @CompSciFact: "What 'Worse is Better vs The Right Thing' is really about" http://t.co/mmgbFJkQ,retweete_count:100,in_reply_to_user_id:None
+user:@adamdangelo,id:227097174532567040,created_at:2012-07-22 17:46:00,text:RT @sapinker: Despite Colorado shootings, US gun ownership is DOWN http://t.co/PFCADua7.,retweete_count:61,in_reply_to_user_id:None
+user:@adamdangelo,id:219106363144548353,created_at:2012-06-30 16:33:22,text:Good week for the Google Compute Engine launch,retweete_count:13,in_reply_to_user_id:None
+user:@adamdangelo,id:218463473783422976,created_at:2012-06-28 21:58:45,text:@ywxwy totally agree,retweete_count:0,in_reply_to_user_id:4371351
+user:@adamdangelo,id:207294396729786368,created_at:2012-05-29 02:16:50,text:@irondavy hahaha,retweete_count:0,in_reply_to_user_id:14986129
+user:@adamdangelo,id:202183728552869888,created_at:2012-05-14 23:48:51,text:My answer to: What will Quora do with the $50 million in funding it just received? http://t.co/d5T1zfqo on @Quora,retweete_count:33,in_reply_to_user_id:None
+user:@adamdangelo,id:192862372963168256,created_at:2012-04-19 06:29:07,text:@mlevchin me too,retweete_count:0,in_reply_to_user_id:14541402
+user:@adamdangelo,id:192499612282658817,created_at:2012-04-18 06:27:38,text:RT @paulg: Apple iPhone Will Fail: http://t.co/Txc1NVHv,retweete_count:595,in_reply_to_user_id:None
+user:@adamdangelo,id:192135803839856641,created_at:2012-04-17 06:22:00,text:@ywxwy awesome,retweete_count:0,in_reply_to_user_id:4371351
+user:@adamdangelo,id:187216384281935872,created_at:2012-04-03 16:33:58,text:@alexia "the one I always end up using, X-Pro" so true...,retweete_count:1,in_reply_to_user_id:18327902
+user:@adamdangelo,id:181433751908270080,created_at:2012-03-18 17:35:51,text:sunny in Palo Alto after a quick hail storm,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:178955180044320768,created_at:2012-03-11 21:26:54,text:I love @OrderAheadApp,retweete_count:5,in_reply_to_user_id:None
+user:@adamdangelo,id:175063872552697858,created_at:2012-03-01 03:44:14,text:@ywxwy be reasonable!,retweete_count:0,in_reply_to_user_id:4371351
+user:@adamdangelo,id:172266920266055680,created_at:2012-02-22 10:30:09,text:@joshelman I've had a lot of "they are just signing up now?" thoughts from those emails the past week,retweete_count:0,in_reply_to_user_id:1979921
+user:@adamdangelo,id:171800743899185152,created_at:2012-02-21 03:37:43,text:@richardprice100 finally!,retweete_count:0,in_reply_to_user_id:11425292
+user:@adamdangelo,id:169517547316719617,created_at:2012-02-14 20:25:07,text:What's it like to play on the same basketball team as Jeremy Lin? http://t.co/I7vG4pGP,retweete_count:7,in_reply_to_user_id:None
+user:@adamdangelo,id:166773097293287424,created_at:2012-02-07 06:39:39,text:@sanliu I am going for survival of the fittest of my plants,retweete_count:0,in_reply_to_user_id:20494464
+user:@adamdangelo,id:166738106005983232,created_at:2012-02-07 04:20:36,text:@sanliu I got some thinking they would be low maintenance and now I have the same problem :(,retweete_count:0,in_reply_to_user_id:20494464
+user:@adamdangelo,id:152467996009443328,created_at:2011-12-29 19:16:17,text:RT @ConanOBrien: As I look around at everything we have, I want to thank the one who makes it all possible: China.,retweete_count:7171,in_reply_to_user_id:None
+user:@adamdangelo,id:149956653339508737,created_at:2011-12-22 20:57:06,text:I've gotten really good at hitting escape just before new york times articles finish loading,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:149303703277543425,created_at:2011-12-21 01:42:31,text:started a new board on technology platforms. follow here: http://t.co/oaFl6O6j,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:148853118984126464,created_at:2011-12-19 19:52:03,text:New Product: Boards http://t.co/AEE27axF,retweete_count:8,in_reply_to_user_id:None
+user:@adamdangelo,id:131103039401639936,created_at:2011-10-31 20:19:35,text:@yishan me too. that's the only real value i get out of it,retweete_count:0,in_reply_to_user_id:14553823
+user:@adamdangelo,id:124259320631279616,created_at:2011-10-12 23:05:05,text:RT @joellewenstein: Really interesting: Harvard oncologist's take on Steve Jobs' resistance to traditional cancer treatment: http://t.co ...,retweete_count:8,in_reply_to_user_id:None
+user:@adamdangelo,id:122395639815479296,created_at:2011-10-07 19:39:29,text:@dragonaire just noticed your name at the top of one of our resume stacks!,retweete_count:0,in_reply_to_user_id:15182824
+user:@adamdangelo,id:121733356118491136,created_at:2011-10-05 23:47:48,text:@lexnfx congrats on being the first tweet,retweete_count:0,in_reply_to_user_id:19478716
+user:@adamdangelo,id:121714171745275904,created_at:2011-10-05 22:31:34,text:Steve Jobs presents the iTunes Phone http://qr.ae/74HEv,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:120966370451128320,created_at:2011-10-03 21:00:04,text:RT @azaaza: In Japan only 2% of adoptions are children. The other 98% are males between 25-30. Conscientious nepotism. http://t.co/jFlsahGU,retweete_count:39,in_reply_to_user_id:None
+user:@adamdangelo,id:119478536770818049,created_at:2011-09-29 18:27:57,text:Quora for iPhone and iPod touch http://qr.ae/7oqAw,retweete_count:8,in_reply_to_user_id:None
+user:@adamdangelo,id:118417037965012993,created_at:2011-09-26 20:09:56,text:@ywxwy me too!,retweete_count:0,in_reply_to_user_id:4371351
+user:@adamdangelo,id:117452680842051584,created_at:2011-09-24 04:17:55,text:@susiefu ugh just saw this, sorry I had to cancel!,retweete_count:0,in_reply_to_user_id:216144939
+user:@adamdangelo,id:117317024593608705,created_at:2011-09-23 19:18:52,text:@garrytan fascinating,retweete_count:0,in_reply_to_user_id:11768582
+user:@adamdangelo,id:102779850749779968,created_at:2011-08-14 16:33:20,text:RT @johnolilly: Friedman has the closest view to what's happening in the world that I know of. Confluence of IT & globalization. http:// ...,retweete_count:25,in_reply_to_user_id:None
+user:@adamdangelo,id:101913284134965249,created_at:2011-08-12 07:09:55,text:@junelin try South Brooklyn Pizza in the east village,retweete_count:0,in_reply_to_user_id:16483305
+user:@adamdangelo,id:94797571091996672,created_at:2011-07-23 15:54:36,text:@joehewitt I agree,retweete_count:0,in_reply_to_user_id:1260231
+user:@adamdangelo,id:93803510944104449,created_at:2011-07-20 22:04:34,text:@rabois enjoying your daily G+ reality checks,retweete_count:0,in_reply_to_user_id:20263710
+user:@adamdangelo,id:84364712942370816,created_at:2011-06-24 20:58:09,text:Post on @Quora from @edmondlau: New Topic Pages and Topic Groups http://qr.ae/7Rg9v,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:80482798909132800,created_at:2011-06-14 03:52:49,text:Quora post from @semilshah: Quora helps writers and ideas get discovered http://qr.ae/ffIC,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:79711335469948929,created_at:2011-06-12 00:47:17,text:RT @garrytan: New York City as seen using a first-person-video controlled RC airplane! http://post.ly/2CAHh,retweete_count:8,in_reply_to_user_id:None
+user:@adamdangelo,id:72856540721319936,created_at:2011-05-24 02:48:47,text:@pandemona i was just thinking that exactly,retweete_count:0,in_reply_to_user_id:18337283
+user:@adamdangelo,id:71285087643250688,created_at:2011-05-19 18:44:23,text:Quora: Would LinkedIn have been better off with a dutch auction for their IPO? Answer: http://qr.ae/jFVA,retweete_count:6,in_reply_to_user_id:None
+user:@adamdangelo,id:61485544051441664,created_at:2011-04-22 17:44:30,text:@kevin_doyle glad you like it!,retweete_count:0,in_reply_to_user_id:15926388
+user:@adamdangelo,id:59149724804071426,created_at:2011-04-16 07:02:48,text:@ryanbed hahaha,retweete_count:0,in_reply_to_user_id:10443552
+user:@adamdangelo,id:47822986232872960,created_at:2011-03-16 00:54:23,text:home page cleanup/redesign just launched: http://www.quora.com/,retweete_count:15,in_reply_to_user_id:None
+user:@adamdangelo,id:34401877139394561,created_at:2011-02-07 00:03:41,text:@triketora that blog is awesome,retweete_count:1,in_reply_to_user_id:19556080
+user:@adamdangelo,id:34074646353551361,created_at:2011-02-06 02:23:23,text:new Quora answer ranking system: http://qr.ae/klxK,retweete_count:29,in_reply_to_user_id:None
+user:@adamdangelo,id:32902189764575232,created_at:2011-02-02 20:44:27,text:Should it be illegal for Bing to incorporate data from users' clicks on Google results? http://qr.ae/4lGE,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:32335481005940737,created_at:2011-02-01 07:12:34,text:@ryanbed thanks,retweete_count:0,in_reply_to_user_id:10443552
+user:@adamdangelo,id:31462357360185344,created_at:2011-01-29 21:23:05,text:Really interested in this: Will the Yuri Milner / SV Angel funding offer to all YC startups result in adverse selection? http://qr.ae/PKqr,retweete_count:7,in_reply_to_user_id:None
+user:@adamdangelo,id:31040261786173440,created_at:2011-01-28 17:25:49,text:Answer on Quora from @MarcBodnick to: How was Marc Bodnick recruited to Quora? http://qr.ae/oBB3,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:25342423794188289,created_at:2011-01-13 00:04:39,text:@ryanbed huh,retweete_count:0,in_reply_to_user_id:10443552
+user:@adamdangelo,id:22839752122171392,created_at:2011-01-06 02:19:55,text:Answer on Quora from @146 to: Why did the Quora website get so slow at the end of December 2010? http://qr.ae/vRkM,retweete_count:11,in_reply_to_user_id:None
+user:@adamdangelo,id:21243272294834176,created_at:2011-01-01 16:36:05,text:RT @bramcohen: Why do all bug tracking systems start by trying to enforce a process, rather than help you do whatever you want?,retweete_count:61,in_reply_to_user_id:None
+user:@adamdangelo,id:19641516754468864,created_at:2010-12-28 06:31:17,text:@hoomanradfar thx,retweete_count:0,in_reply_to_user_id:8315972
+user:@adamdangelo,id:19289453721821184,created_at:2010-12-27 07:12:18,text:@alexia lol,retweete_count:0,in_reply_to_user_id:18327902
+user:@adamdangelo,id:17721016302178304,created_at:2010-12-22 23:19:54,text:Columbus Circle  http://instagr.am/p/qGrH/,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:12322409952579585,created_at:2010-12-08 01:47:46,text:Quora: What software exists that can reverse a blur in an image? Answer: http://qr.ae/p5om,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:10753450509864960,created_at:2010-12-03 17:53:17,text:"fire emergency" evacuation at SJC,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:9862220951330816,created_at:2010-12-01 06:51:51,text:@shreyes sorry :(,retweete_count:1,in_reply_to_user_id:11825962
+user:@adamdangelo,id:8622312911806464,created_at:2010-11-27 20:44:54,text:Quora: What are the details of the internal level system for employees ... Answer: http://qr.ae/TRd3,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:8059684879605760,created_at:2010-11-26 07:29:13,text:@_abi_ interesting, although it seems like unladen swallow has stopped,retweete_count:0,in_reply_to_user_id:10923902
+user:@adamdangelo,id:7690202998906880,created_at:2010-11-25 07:01:01,text:@artypapers I have more if you run out,retweete_count:0,in_reply_to_user_id:19479427
+user:@adamdangelo,id:6419134891954176,created_at:2010-11-21 18:50:15,text:RT @nolimits: I think some people forget that the word "viable" is in the phrase MVP.,retweete_count:5,in_reply_to_user_id:None
+user:@adamdangelo,id:6410152454393856,created_at:2010-11-21 18:14:34,text:the products are pretty different, but instagram has mainly taken the place of foursquare for me, not twitter or facebook.,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:6048920211816448,created_at:2010-11-20 18:19:09,text:@ryanbed congrats,retweete_count:0,in_reply_to_user_id:10443552
+user:@adamdangelo,id:4280214771204096,created_at:2010-11-15 21:10:57,text:Quora: What's a good open-source application for real-time file syncing? Answer: http://qr.ae/8mTh,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:2480346780139520,created_at:2010-11-10 21:58:55,text:Quora: What should be done to minimize variance when running a benchmark on Linux? Answer: http://qr.ae/8nKr,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:29597649769,created_at:2010-11-03 19:06:32,text:Quora: What is the best tool to simulate a slow internet connection on Mac? Answer: http://qr.ae/RAkJ,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:29553116570,created_at:2010-11-03 08:37:45,text:@parislemon wow, great discovery,retweete_count:0,in_reply_to_user_id:652193
+user:@adamdangelo,id:29152796401,created_at:2010-10-30 04:04:03,text:@shreyes sad i'm missing it,retweete_count:0,in_reply_to_user_id:11825962
+user:@adamdangelo,id:28863930632,created_at:2010-10-27 05:44:21,text:@newhouseb yeah, true redirection would, but it would work reasonably if you sent everyone messages from themselves with links,retweete_count:0,in_reply_to_user_id:1371101
+user:@adamdangelo,id:27675797934,created_at:2010-10-17 22:03:32,text:Quora is looking to hire an iPhone developer: http://qr.ae/7yz9,retweete_count:24,in_reply_to_user_id:None
+user:@adamdangelo,id:27310032857,created_at:2010-10-14 04:13:23,text:checking out our new space  @ Quora HQ http://instagr.am/p/BKnc/,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:27300762166,created_at:2010-10-14 02:12:13,text:@karaswisher can't stop laughing at "every overdog needs an underdog",retweete_count:0,in_reply_to_user_id:5763262
+user:@adamdangelo,id:26992344506,created_at:2010-10-11 02:06:13,text:Quora: The Drug Trade: Why are drugs so often sold on corners? Answer: http://qr.ae/7Gmy,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:26989729137,created_at:2010-10-11 01:34:39,text:@nolimits we'll trade you one of each for a ramen place and a pearl tea place,retweete_count:0,in_reply_to_user_id:9203182
+user:@adamdangelo,id:26962788844,created_at:2010-10-10 19:05:57,text:RT @marshallk: Just tried @Instagram after reading founder's story on @quora and it's pretty awesome,retweete_count:5,in_reply_to_user_id:None
+user:@adamdangelo,id:26801651234,created_at:2010-10-09 01:08:50,text:@_abi_ added this: http://www.quora.com/What-are-the-downsides-of-type-inference,retweete_count:0,in_reply_to_user_id:10923902
+user:@adamdangelo,id:26677641617,created_at:2010-10-07 19:14:49,text:@nolimits glad you like it,retweete_count:0,in_reply_to_user_id:9203182
+user:@adamdangelo,id:26608449344,created_at:2010-10-07 01:55:10,text:@miaogyver something like this is going to be big. privacy might be more important than they're emphasizing.,retweete_count:0,in_reply_to_user_id:9877982
+user:@adamdangelo,id:26606721913,created_at:2010-10-07 01:33:44,text:playing with instagram http://instagr.am/p/EsA/,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:26576948325,created_at:2010-10-06 19:04:28,text:RT @rabois: I may shoot the next person who adds me to a FB group. :),retweete_count:10,in_reply_to_user_id:None
+user:@adamdangelo,id:26576640578,created_at:2010-10-06 18:59:51,text:@angelicism rainy,retweete_count:0,in_reply_to_user_id:26816492
+user:@adamdangelo,id:26436676324,created_at:2010-10-05 07:32:54,text:RT @artypapers: Answered by Netflix CEO. Awesome. Quora: How much does Netflix spend on postage each year? Answer: http://qr.ae/k0H,retweete_count:91,in_reply_to_user_id:None
+user:@adamdangelo,id:26427226301,created_at:2010-10-05 04:12:28,text:Quora: What are the best monospace or fixed width fonts to use for programming? 10 Answers: http://qr.ae/Rqo,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:26424424624,created_at:2010-10-05 03:29:51,text:@lloydoftheflies a bad change,retweete_count:0,in_reply_to_user_id:144611325
+user:@adamdangelo,id:26422148912,created_at:2010-10-05 02:58:29,text:OH: "if you make a change like that ten times, our code will look like Facebook's code",retweete_count:11,in_reply_to_user_id:None
+user:@adamdangelo,id:26403871073,created_at:2010-10-04 23:08:34,text:@sflily ah, cool,retweete_count:0,in_reply_to_user_id:14219273
+user:@adamdangelo,id:26402070167,created_at:2010-10-04 22:45:02,text:@sflily where does the 25% come from?,retweete_count:0,in_reply_to_user_id:14219273
+user:@adamdangelo,id:26224335531,created_at:2010-10-03 01:32:19,text:Ping is significantly better with the latest iteration. With a few more steps, I could see it really taking off.,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:26222836509,created_at:2010-10-03 01:11:18,text:I had forgotten about Ping, but I restarted iTunes and it showed up in the sidebar. Still no way to find friends though.,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:26049313217,created_at:2010-10-01 04:19:46,text:How big is the Quora office? (+photo) Answer: http://qr.ae/7Xlg,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:25907626353,created_at:2010-09-29 18:41:49,text:RT @joellewenstein: Google Instant + me learning Python = Lots of snake images before programming results appear,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:25860835593,created_at:2010-09-29 06:53:32,text:RT @k: "Not innovative and not focused. Twttr sounds like a disaster in the making…" http://ke.vc/aaWCGs #blastfromthepast,retweete_count:27,in_reply_to_user_id:None
+user:@adamdangelo,id:25614806278,created_at:2010-09-26 18:52:27,text:back to work,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:25376675247,created_at:2010-09-24 04:57:09,text:Quora: How long has the new Twitter been under development? Answer: http://qr.ae/Q1w,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:25148078200,created_at:2010-09-21 20:12:57,text:New Computer Science Research topic on Quora: http://qr.ae/BRg,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:25089092156,created_at:2010-09-21 04:14:57,text:just launched: Posts http://qr.ae/llY,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:25084988311,created_at:2010-09-21 03:15:02,text:Quora: What are the downsides of being a venture capitalist? Answer: http://qr.ae/lOf,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:25077597081,created_at:2010-09-21 01:36:08,text:@ccheever i am going to write a post about it,retweete_count:0,in_reply_to_user_id:4653371
+user:@adamdangelo,id:25076031634,created_at:2010-09-21 01:16:23,text:@rabois also, more coming very soon,retweete_count:0,in_reply_to_user_id:20263710
+user:@adamdangelo,id:25075946663,created_at:2010-09-21 01:15:19,text:@rabois all @artypapers,retweete_count:0,in_reply_to_user_id:20263710
+user:@adamdangelo,id:25040890477,created_at:2010-09-20 16:46:29,text:RT @Werner: New Amazon #EC2 Features: Tagging, Idempotent Instance Creation, Filtering, Bring Your Own Keys - http://bit.ly/9sIaLS /by @ ...,retweete_count:6,in_reply_to_user_id:None
+user:@adamdangelo,id:24988558142,created_at:2010-09-20 02:21:56,text:Quora: What are the newest restaurants near University Ave.? Answer: http://qr.ae/mQ3,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:24356369380,created_at:2010-09-13 05:07:56,text:@julien51 there is actually a different product for that - use the "ask to answer" link on the right hand side of the question page,retweete_count:0,in_reply_to_user_id:5381582
+user:@adamdangelo,id:24304599406,created_at:2010-09-12 18:09:13,text:still haven't adjusted to the new google calendar favicon,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:24271436350,created_at:2010-09-12 09:43:40,text:using twitter a lot more lately, mostly because the follow suggestions made me build out a good set,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:24128776709,created_at:2010-09-10 18:44:23,text:a week later and ping is still missing a contact importer and twitter integration,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:23868233901,created_at:2010-09-08 00:51:04,text:Quora: Who were the earliest celebrities to start using Twitter? Answer: http://qr.ae/Sv2,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:23262324673,created_at:2010-09-07 18:55:18,text:FB's secret strategy: open source Cassandra, say it's really good, and let Twitter and others get bogged down with it. http://tcrn.ch/aNO5y0,retweete_count:110,in_reply_to_user_id:None
+user:@adamdangelo,id:23198281687,created_at:2010-09-07 02:17:47,text:RT @artypapers: Amazingly detailed analysis. Quora: How did Six Apart screw up? Answer: http://qr.ae/caI,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:23012355153,created_at:2010-09-04 23:17:44,text:Quora: Why doesn't Apple use Twitter for Ping? Answer: http://qr.ae/cX4,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:22839928269,created_at:2010-09-02 23:38:08,text:RT @soleio: Waiting for a spoof movie trailer for The Music Social Network.,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:22778598927,created_at:2010-09-02 07:07:42,text:error on Ping: MHConnectionsOptIn.BlackListedCanNotOptIntoSocial_explanation.user ???,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:22778560372,created_at:2010-09-02 07:06:45,text:"Your Ping account is disabled. Please contact support for more information." wtf?,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:22763551266,created_at:2010-09-02 02:38:26,text:Quora: What are good places to get dessert near University Ave.? Answer: http://qr.ae/ecG,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:22672175907,created_at:2010-09-01 02:47:09,text:really enjoyed http://www.thewildernessdowntown.com/,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:22465716403,created_at:2010-08-29 20:39:23,text:@bramcohen http://www.quora.com/What-face-detection-library-did-Facebook-choose-to-accelerate-photo-tagging,retweete_count:0,in_reply_to_user_id:17201709
+user:@adamdangelo,id:22376578149,created_at:2010-08-28 19:09:10,text:New question: How do you know if you're getting enough of each vitamin? Follow or Answer: http://qr.ae/iyV,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:21682953507,created_at:2010-08-20 17:47:36,text:@lloydoftheflies true but the closer you get to phishing protection, the less implementing security in hardware matters or even works,retweete_count:0,in_reply_to_user_id:144611325
+user:@adamdangelo,id:21680957919,created_at:2010-08-20 17:17:49,text:browsers/VMs/app store approvals will make antivirus and related approaches to security irrelevant, esp. on phones. So why buy McAfee?,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:18574728103,created_at:2010-07-15 04:10:47,text:followed "What happens after water goes down the drain of a domestic sink?" hoping for an answer: http://bit.ly/96d6lE,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:17476684819,created_at:2010-07-01 07:29:55,text:RT @rabois: The new model of starting a successful company:  2-3 developers, 1 UI designer.,retweete_count:36,in_reply_to_user_id:None
+user:@adamdangelo,id:17476672985,created_at:2010-07-01 07:29:37,text:@rabois that is exactly what we were.,retweete_count:0,in_reply_to_user_id:20263710
+user:@adamdangelo,id:17308822424,created_at:2010-06-29 05:06:50,text:Google Me isn't a rumor: http://bit.ly/biYaYX,retweete_count:18,in_reply_to_user_id:None
+user:@adamdangelo,id:16726575346,created_at:2010-06-21 22:41:00,text:RT @artypapers: http://www.quora.com/Who-can-register-for-Quora,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:14137140140,created_at:2010-05-17 03:03:38,text:@ccheever me too,retweete_count:0,in_reply_to_user_id:4653371
+user:@adamdangelo,id:13266355635,created_at:2010-05-02 21:08:55,text:RT @quora: New feature - save drafts of your answers. See http://www.quora.com/How-do-drafts-work-on-Quora,retweete_count:3,in_reply_to_user_id:None
+user:@adamdangelo,id:12966167222,created_at:2010-04-27 21:30:06,text:@shreyes @146 @artypapers @triketora @ccheever Quora,retweete_count:0,in_reply_to_user_id:11825962
+user:@adamdangelo,id:11257622449,created_at:2010-03-29 16:29:43,text:RT @artypapers: We're just getting started: http://www.quora.com/jobs,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:10703313723,created_at:2010-03-19 02:53:20,text:RT @cshirky: "For years, Viacom secretly uploaded content to YouTube, while publicly complaining about its presence there" http://bit.ly ...,retweete_count:197,in_reply_to_user_id:None
+user:@adamdangelo,id:10439196230,created_at:2010-03-13 21:31:20,text:Around sxsw until Monday. dm me if you want to meet up,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:9606875479,created_at:2010-02-25 02:52:04,text:enjoying the new gmail typeahead,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:9408567930,created_at:2010-02-21 01:48:10,text:Q:What was the hardest part of scaling Faceb... A:Overall the challenge was in the large num... http://formspring.me/adamdangelo/q/203961312,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:9407602334,created_at:2010-02-21 01:21:53,text:Q:livenode or tornado? :) A:Livenode is a higher level abstraction than Tornado. In fact, it... http://formspring.me/adamdangelo/q/203797259,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:9396867059,created_at:2010-02-20 20:02:12,text:Ask me anything http://formspring.me/adamdangelo,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:8441483717,created_at:2010-01-31 05:37:30,text:I'll say it again: Flash is not threatened by Apple at all, it is threatened by Microsoft implementing HTML5 in IE. (via @joehewitt),retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:7435887444,created_at:2010-01-06 09:32:30,text:RT @quora: Users can now invite other users.  Yay.,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:7435877853,created_at:2010-01-06 09:31:57,text:http://www.readwriteweb.com/archives/facebooks_1st_cto_launches_his_next_company_screen.php,retweete_count:2,in_reply_to_user_id:None
+user:@adamdangelo,id:6951745625,created_at:2009-12-23 03:14:50,text:If Google really wants to claim openness here's a list of things they need to open up: http://google.com/robots.txt,retweete_count:4,in_reply_to_user_id:None
+user:@adamdangelo,id:6854982715,created_at:2009-12-20 07:47:14,text:still haven't gotten used to seeing big pictures of strangers in my twitter feed due to retweets.,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:6854930329,created_at:2009-12-20 07:44:07,text:@tripadler you're lucky - we ended up aborting landing at JFK, went to BOS, couldn't land there, and ended up in Chicago.,retweete_count:0,in_reply_to_user_id:3588081
+user:@adamdangelo,id:6846389237,created_at:2009-12-20 01:46:48,text:Computers are so boring without the internet.,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:6841021133,created_at:2009-12-19 22:07:59,text:@tripadler I am on a 3:30 flight too, aa 20?,retweete_count:0,in_reply_to_user_id:3588081
+user:@adamdangelo,id:6724345289,created_at:2009-12-16 08:04:59,text:next up on my AWS wishlist: billing by the quarter hour instead of rounding everything up to the nearest whole number of hours,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:6092044650,created_at:2009-11-26 20:47:11,text:http://highscalability.com/blog/2009/11/25/brian-akers-hilarious-nosql-stand-up-routine.html,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5786742563,created_at:2009-11-17 04:10:02,text:Storage on Google Accounts now 1/6 the price of Amazon S3. $.02/GB/month https://www.google.com/accounts/PurchaseStorage vs $.12/GB/month.,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:5642134139,created_at:2009-11-12 05:44:08,text:interesting if you care about software patents: #bilski hearing transcript: http://bit.ly/3adiqu via @gnprice,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5207760553,created_at:2009-10-27 18:49:41,text:@miaogyver out of the competitors which one do you take the most seriously?,retweete_count:0,in_reply_to_user_id:9877982
+user:@adamdangelo,id:5195668355,created_at:2009-10-27 07:42:19,text:there we go, lower ec2 prices: http://bit.ly/1j5cez,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5114414601,created_at:2009-10-24 03:04:18,text:10,000 cores to service 2,000 US visitors per day. 1: http://bit.ly/WJkwL 2: http://www.quantcast.com/wolframalpha.com,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:5088605325,created_at:2009-10-23 03:49:05,text:this is one of those problems that's not trivial but not hard enough for anyone to have made a general solution so everyone makes one-offs,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5086159971,created_at:2009-10-23 02:00:47,text:what's the best open source software to take flat file logs from a large number of servers and bring them all back to one central location?,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5028447995,created_at:2009-10-20 21:57:48,text:if you want comcast service for a business, always call them to order it, never use the online order form.,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:5028006425,created_at:2009-10-20 21:36:27,text:terrible comcast service. we want to set up new office internet, it got assigned to someone there who is gone, and no one else can take over,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:4910039063,created_at:2009-10-16 06:23:52,text:@alexroche the price per gb of s3 storage has been flat for three years,retweete_count:0,in_reply_to_user_id:4436261
+user:@adamdangelo,id:4909996548,created_at:2009-10-16 06:20:30,text:@eston true, but switching costs are low so it should just take a single competitor like google or msft to get the prices to approach cost,retweete_count:0,in_reply_to_user_id:1455981
+user:@adamdangelo,id:4909766548,created_at:2009-10-16 06:02:56,text:Why aren't ec2/s3 prices dropping as hardware costs drop? Where is the competition?,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:4588188671,created_at:2009-10-03 21:41:37,text:What is the best product I can use as a todo list I can access and modify from my iPhone and two computers, synced appropriately?,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:4117390851,created_at:2009-09-20 04:04:46,text:@bramcohen mostly computer. my program is good for generating similar puzzles, i'm going to play with it when i have some more time.,retweete_count:0,in_reply_to_user_id:17201709
+user:@adamdangelo,id:4117272683,created_at:2009-09-20 03:57:57,text:@bramcohen fun puzzle,retweete_count:0,in_reply_to_user_id:17201709
+user:@adamdangelo,id:4117217775,created_at:2009-09-20 03:54:53,text:"Pack eight 7x9 rectangles plus eight 8x11 rectangles into a 35x35 square" - @bramcohen : http://bit.ly/XS3lh,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3969981833,created_at:2009-09-14 02:33:05,text:that price needs to come down and a big company needs to fund dev of a good system. but all the research problems are solved. thanks @jleibs,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3969896542,created_at:2009-09-14 02:30:55,text:summary of autonomous car investigation: right now to do good sensing you need http://www.velodyne.com/lidar/ which costs $100k,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3968865904,created_at:2009-09-14 02:02:17,text:@artypapers i completely agree,retweete_count:0,in_reply_to_user_id:19479427
+user:@adamdangelo,id:3968796207,created_at:2009-09-14 02:00:25,text:@jleibs wow, really? does that include all of merging, being in traffic, avoiding animals, driving in rain/snow, etc?,retweete_count:0,in_reply_to_user_id:30826668
+user:@adamdangelo,id:3966158459,created_at:2009-09-14 00:44:17,text:@jleibs how much sooner do you think?other than software what's constraining us?,retweete_count:0,in_reply_to_user_id:30826668
+user:@adamdangelo,id:3947826401,created_at:2009-09-13 03:27:24,text:Poll: what year will the first car that can drive itself on the highway completely automatically be available to consumers and legal?,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3829544177,created_at:2009-09-08 00:28:27,text:graphs of frequency of job type vs time: http://bit.ly/VmqMj,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3721419484,created_at:2009-09-02 23:21:24,text:back to work on @quora,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3560595845,created_at:2009-08-26 17:35:13,text:at #wikimania,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:3506457260,created_at:2009-08-24 04:28:53,text:getting ready for trip to #wikimania in buenos aires,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:2859004097,created_at:2009-07-26 21:36:23,text:@jleibs I have that same intuition about a, c, and e, haven't been able to shake it.,retweete_count:0,in_reply_to_user_id:30826668
+user:@adamdangelo,id:2858910784,created_at:2009-07-26 21:29:35,text:Coming back from vacation, I want to read a summary of everything that happened in tech news over the last week. What's the best source?,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:2509867667,created_at:2009-07-07 05:39:09,text:@github what is /usr/bin/gerve?,retweete_count:0,in_reply_to_user_id:13334762
+user:@adamdangelo,id:1932675163,created_at:2009-05-27 04:58:11,text:we're hiring - please send to anyone you think would be interested: http://www.alma-networks.com/jobs/,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1834060023,created_at:2009-05-18 08:28:37,text:amazon is really on a tear with new aws features. http://aws.typepad.com/ . now we just need some competition to drive the prices down.,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1815013641,created_at:2009-05-16 08:06:57,text:around pasadena for the weekend,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1813626011,created_at:2009-05-16 03:58:42,text:SJC to BUR,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1786687759,created_at:2009-05-13 17:51:52,text:setting up infrastructure for continuous deployment,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1782384632,created_at:2009-05-13 07:27:50,text:anyone know the status of a west coast EC2 datacenter? http://bit.ly/zNqhY,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1688896745,created_at:2009-05-03 19:10:01,text:Train to sf,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1641298571,created_at:2009-04-28 18:26:38,text:McKinsey really damaged their credibility with this cloud study,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1583278673,created_at:2009-04-22 09:01:52,text:@jleibs two years after stopping using fetchmail i still have to resist the urge to type f-e-tab when i open a new terminal,retweete_count:0,in_reply_to_user_id:30826668
+user:@adamdangelo,id:1545443122,created_at:2009-04-17 20:47:21,text:going up to #swfoo,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1532473066,created_at:2009-04-16 09:15:40,text:chrome has gotten much much better since launch,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1496314146,created_at:2009-04-11 09:54:19,text:@tperry256 that's pretty cool,retweete_count:0,in_reply_to_user_id:23412501
+user:@adamdangelo,id:1493336003,created_at:2009-04-10 21:51:40,text:really impressed with cython,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1489282322,created_at:2009-04-10 08:17:49,text:@ryanbed thanks,retweete_count:0,in_reply_to_user_id:10443552
+user:@adamdangelo,id:1475217583,created_at:2009-04-08 07:31:38,text:started a blog: http://tinyurl.com/cgnkld,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1459746710,created_at:2009-04-06 00:02:00,text:downtown palo alto rental rates are dropping fast. all these places have signing bonuses or free months,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1450617492,created_at:2009-04-04 08:05:23,text:@ajgnet make the switch! People always wait too long to change languages,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1390562656,created_at:2009-03-25 21:45:31,text:switched to ipython,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1349513807,created_at:2009-03-18 17:41:29,text:welcome @chuppington,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1325722656,created_at:2009-03-14 04:12:13,text:@superspoon sometimes if you tell them you're going with comcast instead (even if you can't) they'll find you an earlier time,retweete_count:0,in_reply_to_user_id:15623801
+user:@adamdangelo,id:1320196304,created_at:2009-03-13 04:23:27,text:@MarcBodnick @chamath wow me too,retweete_count:0,in_reply_to_user_id:22832236
+user:@adamdangelo,id:1315073598,created_at:2009-03-12 07:57:54,text:@adityaag yup,retweete_count:0,in_reply_to_user_id:974861
+user:@adamdangelo,id:1315070722,created_at:2009-03-12 07:56:25,text:@prostoalex mac version doesn't seem ready yet,retweete_count:0,in_reply_to_user_id:1699001
+user:@adamdangelo,id:1311873145,created_at:2009-03-11 18:18:25,text:morning browser restart,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1293596429,created_at:2009-03-07 18:55:49,text:in south korea, you commonly use your social security number to prove your identity to websites http://tinyurl.com/ao4zqg,retweete_count:1,in_reply_to_user_id:None
+user:@adamdangelo,id:1281923725,created_at:2009-03-05 04:15:26,text:20% chance of a depression http://online.wsj.com/article/SB123612575524423967.html,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1277666170,created_at:2009-03-04 07:29:24,text:nice abstraction on top of mysql for friendfeed - http://tinyurl.com/dcnfl8,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1265978019,created_at:2009-03-01 17:38:55,text:back in palo alto,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1257046806,created_at:2009-02-27 05:48:34,text:Florida,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:1250887572,created_at:2009-02-25 21:14:12,text:@aaron_ haha,retweete_count:0,in_reply_to_user_id:683263
+user:@adamdangelo,id:1225461114,created_at:2009-02-19 03:31:10,text:my twitter feed is now public.,retweete_count:0,in_reply_to_user_id:None
+user:@adamdangelo,id:436024842,created_at:2007-11-22 21:37:05,text:testing,retweete_count:0,in_reply_to_user_id:None
