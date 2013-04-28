@@ -1,9 +1,10 @@
-from flask import Flask
+from flask import Flask, url_for
+from flask import render_template
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-  return 'This is the main file'
+  return render_template('index.html', name="this is the main page")
 
 @app.route('/search/')
 def search():
