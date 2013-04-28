@@ -23,7 +23,9 @@ api = tweepy.API(auth)
 
 
 name = ""
-
+'''
+ Retrieves user's info and his/her friends
+'''
 def getFriends():
 	user_list = []
 	print "Enter User Screen name"
@@ -60,9 +62,9 @@ def getFriends():
     
 
 '''
-  rank user list by normalizing
+  retreive vector info of user_list by normalizing
 '''
-def rankFriends(friends_dict):
+def retreiveFriendsVector(friends_dict):
 	normalize_followers_cnt = 0.0
 	normalize_friends_cnt = 0.0
 	normalize_status_cnt = 0.0
@@ -89,7 +91,7 @@ def main():
 	friends_dict = []
 	friends_dict = getFriends()
 
-	friends_ranked = rankFriends(friends_dict)
+	friends_vector = retreiveFriendsVector(friends_dict)
 
 if __name__ == '__main__':
 	main()
