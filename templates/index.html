@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search 'em</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{url_for('static', filename='css/bootstrap.min.css')}}" rel="stylesheet" media="screen">
+    <link href="{{url_for('static', filename='css/index.css')}}" rel="stylesheet" media="screen">
+  </head>
+  <body>
+    <div id="wrap" class="container">
+      <div class="lea-container">
+        <h1>Search ‘em</h1>
+        <div class="lea-search">
+          <div class="input-append">
+            <input class="span6" id="appendedInputButton" type="text" placeholder="Type your query...">
+            <button class="btn btn-primary" type="button"><i class="icon-search icon-white"></i> Search</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <h6 class="hero-unit">Built by Ashish Agrawal, Ayden Kim, and <a href="http://wa3l.com" target="_blank">Wael Al-Sallami</a></h6>
+    </div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+  </body>
+</html>
