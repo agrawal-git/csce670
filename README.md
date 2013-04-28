@@ -25,4 +25,4 @@ For instance, to add search functionality, you might want to add a search.py fil
 ### Authors
 - Wael Al-Sallami
 - Ashish Agrawal
-- Ayden Kim
+- Hong-hoe Kim
