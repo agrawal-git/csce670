@@ -25,7 +25,7 @@ def getQuery():
    return query
 
     
-def getTweets(query, maxList):
+def getTweets(query):
     
  for subQuery in query:
     if(query_tf.has_key(subQuery) == False):
@@ -188,21 +188,11 @@ def getTweets(query, maxList):
 
  docVector.sort(key= lambda s: s["product"], reverse=True) # sort by length
  
- if(len(docVector) == 0):
-    print "No result"
- else:
-  cnt = 0
-  for subList in docVector:
-  
-   if(cnt == maxList):
-       break
-   else:
-    print subList
-    cnt = cnt + 1
+ return docVector
 
 def main():
     query = getQuery()
-    result = getTweets(query, 20)
+    result = getTweets(query) 
     
 
 
