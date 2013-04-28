@@ -1,53 +1,89 @@
 import requests
 import sys
+import tweepy
+import math
+
+'''
+CONSUMER_KEY = 'Y7OQhFD8dLX4sSxJaTXStg'
+CONSUMER_SECRET = 'vMmkEO5Uj65HPcdWiANOThm4J8xrh3jMwFmBXl1bY'
+ACCESS_KEY ='108510830-4W9HuJ2EqaAaqO9yXgk9HTQmphiZpXoNxmPWGS9K'
+ACCESS_SECRET =  '7NLMqlTNZJ8vYxO2aRTIaXVaPXdCS2JFkRBeqRrRrY'
+'''
+
+CONSUMER_KEY = 'CoepSUu9aTBDacbsSvyFdQ'
+CONSUMER_SECRET = 'HfCJmpnP4kdVyl4ToBXLRu9Him5O4QrPoB3gNWYWlM'
+ACCESS_KEY ='108510830-gSiBhqpAd3gZLm0fcL5ht5Yn26v20fAF0a3CiXmp'
+ACCESS_SECRET =  'OoZpY2yg6t7guh8QTGQP6rjVvJz1VEhQ8CwpFiQ'
+
+
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)  #Your consumer key and secret here 
+auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)  #Your access key and secret here
+api = tweepy.API(auth)  
+
+
+
+name = ""
 
 def getFriends():
+	user_list = []
 	print "Enter User Screen name"
-	username = raw_input()
-	get_friends_url = "https://api.twitter.com/1/friends/ids.json?cursor=-1&screen_name="
-	url = get_friends_url + username
-	friends = requests.get(url)
-	#print len(friends.json()["ids"])
-	return friends.json()["ids"]
+	username = raw_input() # TheRealCaverlee
+	user = api.get_user(username) # our boss
+	name = "@" + user.screen_name
+	friend_info = {}
+	
+	'''
+	  1. First make user's info
+	'''
+	friend_info["name"] = name
+	friend_info["id"] = user.id
+	friend_info["friends_cnt"] = user.friends_count
+	friend_info["followers_cnt"] = user.followers_count
+	friend_info["status_cnt"] = user.statuses_count
+	user_list.append(friend_info)
+	
+	'''
+	  2. Make friends info
+	'''
+	friend_list = user.friends()
+	for friend in friend_list:
+		friend_info = {}
+		name = "@" + friend.screen_name
+		friend_info["name"] = name
+		friend_info["id"] = friend.id
+		friend_info["followers_cnt"] = friend.followers_count
+		friend_info["friends_cnt"] = friend.friends_count
+		friend_info["status_cnt"] = friend.statuses_count
+		user_list.append(friend_info)
+	
+	return user_list
+    
 
-def accessFriendsInfo(friends_ids):
-	#friend_info = []
-	friends_dict = []
-	user_lookup_url =  "https://api.twitter.com/1/users/lookup.json?user_id="
-	for friend in friends_ids:
-		user_lookup_url += str(friend) + ','
-	user_lookup_url = user_lookup_url[:-1]
-	#print user_lookup_url
-	friends_info = requests.get(user_lookup_url).json()
-	for friend in friends_info:
-		info_dict = {}
-		#friend_id = friend["id_str"]
-		info_dict["id_str"] = friend["id_str"]
-		info_dict["followers_count"] = friend["followers_count"]
-		info_dict["friends_count"] = friend["friends_count"]
-		info_dict["screen_name"] = '@' + friend["screen_name"]
-		friends_dict.append(info_dict)
-	#for key,value in friends_dict.items():
-		#print key,value
-	#print len(friends_dict)
-	#print friends_dict
-	return friends_dict
-
+'''
+  rank user list by normalizing
+'''
 def rankFriends(friends_dict):
-	#based on followers count. Need to update
-	friends_dict = sorted(friends_dict, key=lambda d:(d['followers_count']),reverse = True)
-	#for x in friends_dict:
-		#print x['screen_name'],x['followers_count']
-	#print friends_dict
+	normalize_followers_cnt = 0.0
+	normalize_friends_cnt = 0.0
+	normalize_status_cnt = 0.0
+	
+	for subList in friends_dict:
+		subList["followers_cnt"] = 1 + math.log(float(subList["followers_cnt"])) / math.log(2)
+		subList["friends_cnt"] = 1 + math.log(float(subList["friends_cnt"])) / math.log(2)
+        subList["status_cnt"] = 1 + math.log(float(subList["status_cnt"])) / math.log(2)
+        normalize_followers_cnt = normalize_followers_cnt + subList["followers_cnt"] * subList["followers_cnt"]
+        normalize_friends_cnt = normalize_friends_cnt + subList["friends_cnt"] * subList["friends_cnt"]
+        normalize_status_cnt = normalize_status_cnt + subList["status_cnt"] * subList["status_cnt"]
+    	
 	return friends_dict
 	
 
 # To access every tweet for each friends will be heavy
 
 def main():
-	friends_ids = getFriends()
-	#print friends_ids
-	friends_dict = accessFriendsInfo(friends_ids)
+	friends_dict = []
+	friends_dict = getFriends()
+
 	friends_ranked = rankFriends(friends_dict)
 
 if __name__ == '__main__':
