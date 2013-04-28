@@ -75,7 +75,7 @@ def rankFriends(friends_dict):
                 normalize_friends_cnt = normalize_friends_cnt + subList["friends_cnt"] * subList["friends_cnt"]
                 normalize_status_cnt = normalize_status_cnt + subList["status_cnt"] * subList["status_cnt"]
                 
-        for subList in user_list:
+        for subList in friends_dict:
                 subList["followers_cnt"] = subList["followers_cnt"] / (normalize_followers_cnt **(.5))
                 subList["friends_cnt"] = subList["friends_cnt"] / (normalize_friends_cnt **(.5))
                 subList["status_cnt"] = subList["status_cnt"] / (normalize_status_cnt **(.5))
