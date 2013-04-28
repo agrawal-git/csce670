@@ -5,13 +5,15 @@ Code repo for the CSCE 670 (Information retrieval) final project.
 ### Demo
 The app is now **deployed** on Heroku: [http://searchem.herokuapp.com](http://searchem.herokuapp.com).
 
-### Running:
+### Running [UPDATED]:
 
 To run the flask app locally:
 
-- Install flask via "pip install flask"
-- Run "python index.py" in the terminal.
-- Go to "localhost:5000" or "127.0.0.1:5000" in your browser.
+- Install all dependencies via "pip install -r requirements.txt"
+- You need PostgreSql on your system. Refer to [Heroku docs](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup) for platform-specific installation instructions.
+- Don't forget to create a database called **searchem** on your machine for the app to work properly. Refer to PostgreSql documentation on how to do that.
+- Run "python searchem.py" in the terminal.
+- Go to "localhost:5000" in your browser.
 - Profit!
 
 
