@@ -1,5 +1,6 @@
 html,body {
   height: 100%;
+  background: #f9f9f9;
 }
 
 /* Wrapper for page content to push down footer */
@@ -8,7 +9,7 @@ html,body {
   height: auto !important;
   height: 100%;
   /* Negative indent footer by it's height */
-  margin: 0 auto -45px;
+  margin: 0 auto -65px;
 }
 
 /* Set the fixed height of the footer here */
@@ -18,6 +19,13 @@ html,body {
 #footer {
   padding: 15px 0;
   text-align: center;
+}
+#footer h6 {
+  display: block;
+  width: 450px;
+  padding: 5px;
+  margin: 0 auto;
+  background: #eee;
 }
 
 /* Lastly, apply responsive CSS fixes as necessary */
@@ -30,19 +38,15 @@ html,body {
   }
 }
 
-.container {
-  background: #f9f9f9;
-}
-
 .lea-container {
   padding-top: 40px;
   text-align: center;
+}
+.lea-container h1 {
+  font-size: 50px;
 }
 
 .lea-search {
   margin: 40px 0;
 }
 
-.lea-search-field {
-  width: 450px !important;
-}
