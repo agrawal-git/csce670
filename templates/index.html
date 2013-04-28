@@ -7,10 +7,15 @@
     <link href="{{url_for('static', filename='css/index.css')}}" rel="stylesheet" media="screen">
   </head>
   <body>
-    <div id="wrap">
-      <div class="container lea-container">
+    <div id="wrap" class="container">
+      <div class="lea-container">
         <h1>Search 'em all</h1>
-        </h1>
+        <div class="lea-search">
+          <div class="input-append">
+            <input class="span2 lea-search-field" id="appendedInputButton" type="text" placeholder="Type your query...">
+            <button class="btn" type="button">Search</button>
+          </div>
+        </div>
       </div>
     </div>
     <div id="footer">
