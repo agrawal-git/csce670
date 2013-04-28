@@ -6,10 +6,9 @@ from flask.ext.heroku import Heroku
 import os
 # from flask import request, session, redirect, abort, flash
 
-app = Flask(__name__)
+app    = Flask(__name__)
 heroku = Heroku(app)
-# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ['DATABASE_URL']
-# db = SQLAlchemy(app)
+db     = SQLAlchemy(app)
 
 
 
