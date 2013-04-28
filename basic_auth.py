@@ -4,7 +4,7 @@ CONSUMER_SECRET = 'HfCJmpnP4kdVyl4ToBXLRu9Him5O4QrPoB3gNWYWlM'
 ACCESS_KEY ='108510830-gSiBhqpAd3gZLm0fcL5ht5Yn26v20fAF0a3CiXmp'
 ACCESS_SECRET =  'OoZpY2yg6t7guh8QTGQP6rjVvJz1VEhQ8CwpFiQ'
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)  #Your consumer key and secret here
- 
+
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)  #Your access key and secret here
 api = tweepy.API(auth)
 
@@ -17,7 +17,7 @@ print user.followers_count
 #for friend in user.friends():
 #   print friend.screen_name
 page = 2
-timeline = api.user_timeline('@TheRealCaverlee' , count = 200,page = page)
+timeline = api.user_timeline('@TheRealCaverlee' , count = 200, page = page)
 
 if timeline:
     print timeline
