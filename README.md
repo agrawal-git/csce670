@@ -2,9 +2,12 @@
 
 Code repo for the CSCE 670 (Information retrieval) final project.
 
+### Demo
+The app is now **deployed** on Heroku: [http://searchem.herokuapp.com](http://searchem.herokuapp.com).
+
 ### Running:
 
-To run the flask app:
+To run the flask app locally:
 
 - Install flask via "pip install flask"
 - Run "python index.py" in the terminal.
