@@ -227,18 +227,31 @@ class Search:
 		user_rank = {}
 		i = 1
 		for friend in friends_dict:
-			user_rank[friend["id_str"]] = i
+			user_rank[friend["screen_name"]] = i
 			i += 1
 			
 		return user_rank
 	
 	
+
 	def combinerank(self):
 		user_rank = self.rankfriends()
 		tweet_rank = self.getTweets()
-		#print user_rank
-		#print tweet_rank
+		
+		#combine user's rank with tweet's rank
+		
+		for subTweet in tweet_rank:
+			cnt = 1
+			for user in user_rank:
+			    user = user.replace("@", "")
+			    
+		        if(subTweet["user"] == user):
+				    divider = (len(user_rank) - cnt + 1) / len(user_rank)
+				    subTweet["product"] = subTweet["product"] * divider
+			    cnt = cnt + 1
+			
 		return user_rank
+	    
 	
 	def search(self):
 		return self.combinerank()
