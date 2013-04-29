@@ -245,7 +245,7 @@ class Search:
 			for user in user_rank:
 			    user = user.replace("@", "")
 			    
-		        if(subTweet["user"] == user):
+		            if(subTweet["user"] == user):
 				    divider = (len(user_rank) - cnt + 1) / len(user_rank)
 				    subTweet["product"] = subTweet["product"] * divider
 			    cnt = cnt + 1
