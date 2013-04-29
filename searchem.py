@@ -16,6 +16,8 @@ def index():
   # db.session.add(user)
   # db.session.commit()
   user = models.Friend.query.first()
+  if not user:
+    user = models.Friend("123","wa3l", 4, 4)
   return render_template('index.html', name=user.screen_name)
 
 @app.route('/search/')
