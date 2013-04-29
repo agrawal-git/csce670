@@ -250,7 +250,7 @@ class Search:
 				    subTweet["product"] = subTweet["product"] * divider
 			    cnt = cnt + 1
 			
-		return user_rank
+		return tweet_rank
 	    
 	
 	def search(self):
