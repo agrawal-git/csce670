@@ -172,14 +172,6 @@ class Search:
 						product = product + query_tf_idf[subString1] * tf_idf[subString2]
 			subList["product"] = product
 			
-			#should read user_list from rankfriends.py
-			
-			#for userList in user_list:     
-			   # if(subList["user"] == userList["name"]):
-			   #     product = userList["followers_cnt"] * userList["friends_cnt"] * userList["status_cnt"]
-			
-			
-
 		docVector.sort(key= lambda s: s["product"], reverse=True) # sort by length
 		 
 		return docVector
@@ -197,33 +189,41 @@ class Search:
 		#friend_info = []
 		friends_ids = self.getFriends()
 		friends_dict = []
-		user_lookup_url =  "https://api.twitter.com/1/users/lookup.json?user_id="
-		for friend in friends_ids:
-			user_lookup_url += str(friend) + ','
-		user_lookup_url = user_lookup_url[:-1]
-		#print user_lookup_url
-		friends_info = requests.get(user_lookup_url).json()
-		for friend in friends_info:
-			info_dict = {}
-			#friend_id = friend["id_str"]
-			info_dict["id_str"] = friend["id_str"]
-			info_dict["followers_count"] = friend["followers_count"]
-			info_dict["friends_count"] = friend["friends_count"]
-			info_dict["screen_name"] = '@' + friend["screen_name"]
-			friends_dict.append(info_dict)
-		#for key,value in friends_dict.items():
-			#print key,value
-		#print len(friends_dict)
-		#print friends_dict
+		
+		loop = 0
+		max = 100
+		friends_info = {}
+		finished = 0
+		while finished == 0 :
+			user_lookup_url =  "https://api.twitter.com/1/users/lookup.json?user_id="
+			if loop+100 >= len(friends_ids):
+				max = len(friends_ids) - loop
+				finished = 1
+			
+			for i in range(max):
+				user_lookup_url += str(friends_ids[i+loop]) + ','
+			loop += 100
+			user_lookup_url = user_lookup_url[:-1]
+			friends_info = requests.get(user_lookup_url).json()
+			for friend in friends_info:
+				info_dict = {}
+				info_dict["id_str"] = friend["id_str"]
+				info_dict["followers_count"] = friend["followers_count"]
+				info_dict["status_count"] = friend["statuses_count"]
+				info_dict["friends_count"] = friend["friends_count"]
+				info_dict["screen_name"] = '@' + friend["screen_name"]
+				if int(friend["statuses_count"]) >= int(friend["followers_count"]):
+					info_dict["rank_variable"] = friend["statuses_count"]
+				else:
+					info_dict["rank_variable"] = friend["followers_count"]
+				friends_dict.append(info_dict)
+			
 		return friends_dict
 
 	def rankfriends(self):
 		#based on followers count. Need to update
 		friends_dict = self.accessFriendsInfo()
-		friends_dict = sorted(friends_dict, key=lambda d:(d['followers_count']),reverse = True)
-		#for x in friends_dict:
-			#print x['screen_name'],x['followers_count']
-		#print friends_dict
+		friends_dict = sorted(friends_dict, key=lambda d:(d['rank_variable']),reverse = True)
 		user_rank = {}
 		i = 1
 		for friend in friends_dict:
@@ -234,18 +234,18 @@ class Search:
 	
 	
 	def combinerank(self):
-		#username = "1308ashish"
 		user_rank = self.rankfriends()
 		tweet_rank = self.getTweets()
-		
+		#print user_rank
+		#print tweet_rank
 		return user_rank
 	
 	def search(self):
-		print self.combinerank()
+		return self.combinerank()
 		
 def main():
 	#Call the funtion to access username and search query here
-	searchobj = Search("1308ashish","blah")
+	searchobj = Search("TheRealCaverlee","blah")
 	searchobj.search()
 
 if __name__ == '__main__':
