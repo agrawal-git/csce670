@@ -223,7 +223,7 @@ class Search:
 			
 			for friend in friends_dict:
 			    normalize_followers_cnt = normalize_followers_cnt + friend["followers_count"] * friend["followers_count"]
-				normalize_status_count = normalize_status_count + friend["statuses_count"] * friend["statuses_count"]
+			    normalize_status_count = normalize_status_count + friend["statuses_count"] * friend["statuses_count"]
 			
 			for friend in friends_dict:
 			    friend["followers_count"] = friend["followers_count"] / normalize_followers_cnt**(.5)
