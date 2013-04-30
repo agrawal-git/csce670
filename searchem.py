@@ -1,10 +1,11 @@
 from flask import Flask, render_template, url_for, g
-# request, session, redirect, abort, flash
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.heroku import Heroku
 from models import db
 from models import Friend
+import models
 
+'''initiate the app and db:'''
 app    = Flask(__name__)
 heroku = Heroku(app)
 db.app = app
@@ -12,16 +13,16 @@ db.init_app(app)
 
 @app.route('/')
 def index():
-  # user = models.Friend("123","wa3l", 4, 4)
-  # db.session.add(user)
-  # db.session.commit()
+  '''This is the homepage'''
   user = models.Friend.query.first()
   if not user:
     user = models.Friend("123","wa3l", 4, 4)
   return render_template('index.html', name=user.screen_name)
 
+
 @app.route('/search/')
 def search():
+  '''This is the search endpoint'''
   return "this is the search page"
 
 

@@ -22,7 +22,7 @@ api = tweepy.API(auth)
 
 user_list = []
 
-user = api.get_user("TheRealCaverlee") # our boss
+user = api.get_user("TheRealCaverlee")
 friend_info = {}
 name = "@" + user.screen_name
 friend_info["name"] = name
@@ -59,12 +59,8 @@ for user in user_list:
   info = info + ",followers_cnt:"+str(user["followers_cnt"])
   info = info + ",friends_cnt:"+str(user["friends_cnt"])
   info = info + ",status_cnt:"+str(user["status_cnt"])
-  #file.write(info)
-  #file.write('\n')
-
 
 file.close()
-#print len(user.friends()) # this prints at most 100
 
 
 
@@ -72,10 +68,7 @@ file.close()
  1. Save teets per person
  Retrieve user's tweets
 '''
-
-
 page = 1
-
 print user
 print "Start"
 NoTimeline = False
@@ -103,8 +96,6 @@ while(NoTimeline == False):
    print "Nothing"
    NoTimeline = True
 
-
-#f.close()
 
 '''
   2. Tweets of all friends
