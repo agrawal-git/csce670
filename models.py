@@ -26,22 +26,24 @@ class Friend(db.Model):
 class Tweet(db.Model):
   id = db.Column(db.Integer, primary_key=True)
   tweet_id      = db.Column(db.String(20), unique=True)
-  text          = db.Column(db.String(140))
+  text          = db.Column(db.String(300))
   link          = db.Column(db.String(250))
   user_id       = db.Column(db.String(20))
   screen_name   = db.Column(db.String(50))
   created_at    = db.Column(db.DateTime)
   retweet_count = db.Column(db.Integer)
+  own_tweet     = db.Column(db.Boolean)
   terms = db.relationship('TweetTerm', backref='tweet', lazy='dynamic')
 
-  def __init__(self, tweet_id, text, link, user_id, screen_name, created_at, retweet_count):
-    self.tweet_id       = tweet_id
-    self.text           = text
-    self.link           = link
-    self.user_id        = user_id
-    self.created_at     = created_at
-    self.screen_name    = screen_name
-    self.retweet_count  = retweet_count
+  def __init__(self, tweet):
+    self.tweet_id       = tweet['tweet_id']
+    self.text           = tweet['text']
+    self.link           = tweet['link']
+    self.user_id        = tweet['user_id']
+    self.screen_name    = tweet['screen_name']
+    self.retweet_count  = tweet['retweet_count']
+    self.created_at     = tweet['created_at']
+    self.own_tweet      = tweet['own_tweet']
 
 
 # The terms table

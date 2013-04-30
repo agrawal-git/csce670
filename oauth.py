@@ -6,10 +6,10 @@ Access OAuth.api to get an API object.
 
 class Auth:
   '''OAuth handling'''
-  consumer_key        = 'WyHTqA4Ng7ofLhgHVlZXw'
-  consumer_secret     = 'GuBFv0VXya7wakRppmc0sj7Ygngr67OMEhZDNCrfGw'
-  access_token        = '143602582-BBdrYTKdPmHFy7DVfGTDgMMbzWZQGJGRWfOIQ4Sl'
-  access_token_secret = '5maNS11PGE4BwHJdECV1F9dZ01Us6ZMhHvNud1AaPcQ'
+  consumer_key        = 'f2MEow3T5KceQdSXfqA'
+  consumer_secret     = 'iiy7WdQdSKbqhRCxSwwivSUidioGyOf4aQpqg7czWo'
+  access_token        = '143602582-ViRwhkTAnlbtUPMc2ArykGHxOP67hX3D221iO6kq'
+  access_token_secret = 'Id66ldFowHtyER7B3jUIGLtoq6zpuMsVwccUUJRug'
   api = None
 
   def __init__(self):
