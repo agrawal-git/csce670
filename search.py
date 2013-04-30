@@ -208,15 +208,40 @@ class Search:
 			for friend in friends_info:
 				info_dict = {}
 				info_dict["id_str"] = friend["id_str"]
-				info_dict["followers_count"] = friend["followers_count"]
-				info_dict["status_count"] = friend["statuses_count"]
-				info_dict["friends_count"] = friend["friends_count"]
-				info_dict["screen_name"] = '@' + friend["screen_name"]
-				if int(friend["statuses_count"]) >= int(friend["followers_count"]):
-					info_dict["rank_variable"] = friend["statuses_count"]
+				
+				if(friend["followers_count"] > 0):
+				 info_dict["followers_count"] = 1 + math.log(friend["followers_count"] / math.log(2)) 
 				else:
-					info_dict["rank_variable"] = friend["followers_count"]
-				friends_dict.append(info_dict)
+				 info_dict["followers_count"] = 0
+				
+				if(friend["statuses_count"] > 0):
+				 info_dict["statuses_count"] = 1 + math.log(friend["statuses_count"] / math.log(2)) 
+				else:
+				 info_dict["statuses_count"] = 0
+				
+				if(friend["friends_count"] > 0):
+				 info_dict["friends_count"] = 1 + math.log(friend["friends_count"] / math.log(2)) 
+				else:
+				 info_dict["friends_count"] = 0
+				 
+				info_dict["screen_name"] = '@' + friend["screen_name"]
+
+				
+			normalize_followers_cnt = 0.0
+			normalize_status_count = 0.0
+			
+			for friend in friends_dict:
+			    normalize_followers_cnt = normalize_followers_cnt + friend["followers_count"] * friend["followers_count"]
+			    normalize_status_count = normalize_status_count + friend["statuses_count"] * friend["statuses_count"]
+			
+			for friend in friends_dict:
+			    friend["followers_count"] = friend["followers_count"] / normalize_followers_cnt**(.5)
+			    friend["statuses_count"] = friend["statuses_count"] / normalize_followers_cnt**(.5)
+			    if(friend["followers_count"] > friend["statuses_count"]):
+				 friend["rank_variable"] = friend["followers_count"]
+			    else:
+				 friend["rank_variable"] = friend["statuses_count"]
+					
 
 		return friends_dict
 
@@ -243,8 +268,8 @@ class Search:
 			    user = user.replace("@", "")
 
 		            if(subTweet["user"] == user):
-				    divider = (len(user_rank) - cnt + 1) / len(user_rank)
-				    subTweet["product"] = subTweet["product"] * divider
+				    user_rank_factor = (len(user_rank) - cnt + 1) / len(user_rank)
+				    subTweet["product"] = subTweet["product"] * user_rank_factor
 
 			    cnt = cnt + 1
 		tweet_rank.sort(key= lambda s: s["product"], reverse=True) # sort by length
