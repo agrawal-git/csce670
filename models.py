@@ -12,11 +12,11 @@ class Friend(db.Model):
   follow_count  = db.Column(db.Integer)
   tweets_count  = db.Column(db.Integer)
 
-  def __init__(self, user_id, screen_name, follow_count, tweets_count):
-    self.user_id      = user_id
-    self.screen_name  = screen_name
-    self.follow_count = follow_count
-    self.tweets_count = tweets_count
+  def __init__(self, user):
+    self.user_id      = user['user_id']
+    self.screen_name  = user['screen_name']
+    self.follow_count = user['follow_count']
+    self.tweets_count = user['tweets_count']
 
   def __repr__(self):
     return "%r" % self.screen_name

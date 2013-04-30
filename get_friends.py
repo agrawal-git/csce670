@@ -6,11 +6,16 @@ ask for them every time we need them.
 import twitter
 from oauth import Auth
 from user  import User
+from models import Friend
+from searchem import db
 
 api  = Auth().api
 user = User(api)
-wa3l = user.get_user('wa3l')
 
+# fetch user friends and store in the database:
 friends = user.get_friends('wa3l')
 for user in friends:
+  model = Friend(user)
+  db.session.add(model)
   print user
+db.session.commit()
