@@ -217,9 +217,6 @@ class Search:
 				else:
 					info_dict["rank_variable"] = friend["followers_count"]
 					
-				if info_dict["rank_variable"] < int(friend["friends_count"]):
-					info_dict["rank_variable"] = friend["friends_count"]
-				friends_dict.append(info_dict)
 
 		return friends_dict
 
