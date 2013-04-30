@@ -209,16 +209,29 @@ class Search:
 				info_dict = {}
 				info_dict["id_str"] = friend["id_str"]
 				info_dict["followers_count"] = 1 + math.log(friend["followers_count"] / math.log(2) 
-				#info_dict["followers_count"] = friend["followers_count"]
 				info_dict["status_count"] = 1 + math.log(friend["status_count"] / math.log(2) 
-				#info_dict["status_count"] = friend["statuses_count"]
 				info_dict["friends_count"] = 1 + math.log(friend["friends_count"] / math.log(2) 
-				#info_dict["friends_count"] = friend["friends_count"]
 				info_dict["screen_name"] = '@' + friend["screen_name"]
-				if int(friend["statuses_count"]) >= int(friend["followers_count"]):
+				'''if int(friend["statuses_count"]) >= int(friend["followers_count"]):
 					info_dict["rank_variable"] = friend["statuses_count"]
 				else:
 					info_dict["rank_variable"] = friend["followers_count"]
+				'''
+				
+			normalize_followers_cnt = 0.0
+			normalize_status_count = 0.0
+			
+			for friend in friends_dict:
+			    normalize_followers_cnt = normalize_followers_cnt + friend["followers_count"] * friend["followers_count"]
+				normalize_status_count = normalize_status_count + friend["statuses_count"] * friend["statuses_count"]
+			
+			for friend in friends_dict:
+			    friend["followers_count"] = friend["followers_count"] / normalize_followers_cnt**(.5)
+			    friend["statuses_count"] = friend["statuses_count"] / normalize_followers_cnt**(.5)
+			    if(friend["followers_count"] > friend["statuses_count"]):
+				 friend["rank_variable"] = friend["followers_count"]
+			    else:
+				 friend["rank_variable"] = friend["statuses_count"]
 					
 
 		return friends_dict
