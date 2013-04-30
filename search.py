@@ -208,9 +208,9 @@ class Search:
 			for friend in friends_info:
 				info_dict = {}
 				info_dict["id_str"] = friend["id_str"]
-				info_dict["followers_count"] = 1 + math.log(friend["followers_count"] / math.log(2) 
-				info_dict["status_count"] = 1 + math.log(friend["status_count"] / math.log(2) 
-				info_dict["friends_count"] = 1 + math.log(friend["friends_count"] / math.log(2) 
+				info_dict["followers_count"] = 1 + math.log(friend["followers_count"] / math.log(2)) 
+				info_dict["statuses_count"] = 1 + math.log(friend["statuses_count"] / math.log(2)) 
+				info_dict["friends_count"] = 1 + math.log(friend["friends_count"] / math.log(2)) 
 				info_dict["screen_name"] = '@' + friend["screen_name"]
 				'''if int(friend["statuses_count"]) >= int(friend["followers_count"]):
 					info_dict["rank_variable"] = friend["statuses_count"]
