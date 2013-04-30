@@ -2,8 +2,8 @@ from flask import Flask, render_template, url_for, g
 # request, session, redirect, abort, flash
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.heroku import Heroku
-import models
 from models import db
+from models import Friend
 
 app    = Flask(__name__)
 heroku = Heroku(app)

@@ -3,6 +3,7 @@ from datetime import datetime
 
 db = SQLAlchemy()
 
+
 # The friends table
 class Friend(db.Model):
   id            = db.Column(db.Integer, primary_key=True)
@@ -19,6 +20,7 @@ class Friend(db.Model):
 
   def __repr__(self):
     return "%r" % self.screen_name
+
 
 # The tweets table
 class Tweet(db.Model):
@@ -41,6 +43,7 @@ class Tweet(db.Model):
     self.screen_name    = screen_name
     self.retweet_count  = retweet_count
 
+
 # The terms table
 class Term(db.Model):
   id     = db.Column(db.Integer, primary_key=True)
@@ -52,6 +55,7 @@ class Term(db.Model):
 
   def __repr__(self):
     return "%r" % self.term
+
 
 # The terms-to-tweets table
 class TweetTerm(db.Model):

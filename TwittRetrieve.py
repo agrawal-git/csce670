@@ -16,9 +16,8 @@ CONSUMER_SECRET = 'vMmkEO5Uj65HPcdWiANOThm4J8xrh3jMwFmBXl1bY'
 ACCESS_KEY ='108510830-4W9HuJ2EqaAaqO9yXgk9HTQmphiZpXoNxmPWGS9K'
 ACCESS_SECRET =  '7NLMqlTNZJ8vYxO2aRTIaXVaPXdCS2JFkRBeqRrRrY'
 
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)  #Your consumer key and secret here
- 
-auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)  #Your access key and secret here
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
 user_list = []
@@ -32,7 +31,7 @@ friend_info["followers_cnt"] = user.followers_count
 friend_info["friends_cnt"] = user.friends_count
 friend_info["status_cnt"] = user.statuses_count
 user_list.append(friend_info)
-    
+
 f = open('/Users/hong-hoegim/Dropbox/class/CPSC670/project/adamdangelo.txt', 'w')
 file = open('/Users/hong-hoegim/Dropbox/class/CPSC670/project/UserInfo.txt', 'w')
 
@@ -50,7 +49,7 @@ for friend in user.friends():
     friend_info["followers_cnt"] = friend.followers_count
     friend_info["friends_cnt"] = friend.friends_count
     friend_info["status_cnt"] = friend.statuses_count
-    
+
     user_list.append(friend_info)
 
 for user in user_list:
@@ -62,7 +61,7 @@ for user in user_list:
   info = info + ",status_cnt:"+str(user["status_cnt"])
   #file.write(info)
   #file.write('\n')
-  
+
 
 file.close()
 #print len(user.friends()) # this prints at most 100
@@ -83,7 +82,7 @@ NoTimeline = False
 user = '@adamdangelo'
 while(NoTimeline == False):
   timeline = api.user_timeline(user, count = 200,page = page)
- 
+
   if timeline:
     for tweet in timeline:
         f.write("user:")
@@ -103,7 +102,7 @@ while(NoTimeline == False):
   else:
    print "Nothing"
    NoTimeline = True
-  
+
 
 #f.close()
 
@@ -119,19 +118,19 @@ for user in user_list:
  page = 1
  while(NoTimeline == False):
   timeline = api.user_timeline(user, count = 200,page = page)
- 
+
   if timeline:
     print timeline
     for tweet in timeline:
         stream = ""
-        stream = user + ";" + str(tweet.created_at) + ";" +  tweet.text 
+        stream = user + ";" + str(tweet.created_at) + ";" +  tweet.text
         f.write(stream+'\n')
     page = page + 1
   else:
    print "Nothing"
    NoTimeline = True
-  
+
  print "End"
- 
+
 f.close()
 '''
