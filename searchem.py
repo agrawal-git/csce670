@@ -14,10 +14,7 @@ db.init_app(app)
 @app.route('/')
 def index():
   '''This is the homepage'''
-  user = models.Friend.query.first()
-  if not user:
-    user = models.Friend("123","wa3l", 4, 4)
-  return render_template('index.html', name=user.screen_name)
+  return render_template('index.html')
 
 
 @app.route('/search/')
