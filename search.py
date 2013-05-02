@@ -3,7 +3,11 @@ import sys
 import os
 import re
 import math
-
+from flask.ext.sqlalchemy import SQLAlchemy
+from models import db
+from models import Friend
+from models import Tweet
+import models
 
 class Search:
 
@@ -32,7 +36,7 @@ class Search:
 
 		cnt = 0
 
-
+'''
 		for filename in os.listdir(dirPath):
 			if(filename != '.DS_Store'):
 				f = open(dirPath + "/" + filename, 'r')
@@ -107,9 +111,24 @@ class Search:
 				   docVector.append(docInfo)
 
 				f.close()
+'''
 
 			# lineString = re.findall(r"[\w']+", lineString)
 
+		#Access from db
+		docVector = []
+		tweets = db.session.query(Tweet).filter_by(Tweet.user_id).all()
+		for tweet in tweets:
+			docInfo = {}
+			docInfo["id"] = tweet.user_id
+			docInfo["user"] = tweet.screen_name
+			docInfo["created_at"] = tweet.created_at
+			docInfo["text"] = tweet.text
+			docInfo["retweet_count"] = tweet.retweet_count
+			docInfo["link"] = tweet.link			
+			#docInfo["in_reply_to_user_id"] = in_reply_to_user_id
+			docVector.append(docInfo)
+	
 		for subString in df:
 			numerator  = cnt / df[subString]
 			idf[subString] = math.log(numerator) /math.log(2)
@@ -183,6 +202,8 @@ class Search:
 		url = get_friends_url + username
 		friends = requests.get(url)
 		#print len(friends.json()["ids"])
+		#db.session.query(Friend).filter_by(Friend.)
+		#confirm the access of friends from database
 		return friends.json()["ids"]
 
 	def accessFriendsInfo(self):
@@ -283,7 +304,9 @@ class Search:
 def main():
 	#Call the funtion to access username and search query here
 	searchobj = Search("TheRealCaverlee","south")
-	searchobj.search()
+	result = searchobj.search()
+	#for tweet in result:
+		#print tweet['text']
 
 if __name__ == '__main__':
 	main()

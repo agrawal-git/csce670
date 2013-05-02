@@ -23,12 +23,13 @@ def index():
 
 @app.route('/search/')
 def search():
-  # username = "TheRealCaverlee"
-  # query = "south"
-  # search_obj = Search(username,query)
-  # search_result = search_obj.search()
-  rand  = random.randrange(0, db.session.query(Tweet).count())
-  tweet = db.session.query(Tweet)[rand]
+  #rand  = random.randrange(0, db.session.query(Tweet).count())
+  #tweet = db.session.query(Tweet)[rand]
+  username = "wa3l"
+  query = "south" #get it from the index page text field
+  search_obj = Search(username,query)
+  search_result = search_obj.search()
+  # ??? how to send a list using jsonfy
   return jsonify(
     id=tweet.tweet_id,
     text=tweet.text,
@@ -36,7 +37,6 @@ def search():
     user_id=tweet.user_id,
     screen_name=tweet.screen_name,
     retweet_count=tweet.retweet_count,
-    own_tweet=tweet.own_tweet
   )
 
 
