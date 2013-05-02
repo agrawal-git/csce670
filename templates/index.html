@@ -12,8 +12,13 @@
         <h1>Search ‘em</h1>
         <div class="lea-search">
           <div class="input-append">
-            <input class="span6" id="appendedInputButton" type="text" placeholder="Type your query...">
-            <button class="btn btn-primary" type="button"><i class="icon-search icon-white"></i> Search</button>
+            <form id="search-form" name="search-form" method="post" action="/search">
+              <input class="span6" id="search-field" type="text" placeholder="Type your query...">
+              <button class="btn btn-primary" type="button"><i class="icon-search icon-white"></i> Search</button>
+            </form>
+          </div>
+          <div class="first result hidden">
+            <a href="htpp://twitter.com/wa3l" target="_blank">wa3l</a>: <p>this is a tweet!</p>
           </div>
         </div>
       </div>
@@ -22,6 +27,7 @@
       <h6 class="hero-unit">Built by Ashish Agrawal, Ayden Kim, and <a href="http://wa3l.com" target="_blank">Wael Al-Sallami</a></h6>
     </div>
     <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="{{url_for('static', filename='js/index.js')}}"></script>
     <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
   </body>
 </html>

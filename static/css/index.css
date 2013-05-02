@@ -51,3 +51,18 @@ html,body {
   margin: 40px 0;
 }
 
+.hidden {
+  display: none;
+}
+
+.result {
+  padding: 5px 20px;
+  text-align: left;
+  margin: 5px auto;
+  width: 510px;
+  background: #eee;
+}
+
+.result p {
+  display: inline;
+}
